@@ -1,11 +1,11 @@
-<h1 align="center">Hi , I'm Supun Lakmal</h1>
+<h1 align="center">Hi, I'm Supun Lakmal</h1>
 
 <h3 align="center">
- Ai Enthusiast | DevOps Enthusiast | IoT Engineer
+AI Enthusiast | DevOps Enthusiast | IoT Engineer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DevOps+%7C+CI%2FCD+Engineer;IoT+%26+Embedded+Systems+Enthusiast;Building+Scalable+Web+Applications;Exploring+AI+%26+Cloud+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Spring+Boot+%7C+React+Developer;DevOps+%7C+CI%2FCD+Engineer;IoT+%26+Embedded+Systems+Enthusiast;Building+Scalable+Web+Applications;Exploring+AI+%26+Cloud+Technologies&font=Fira%20Code&center=true&width=900&height=50&color=00F7FF&vCenter=true&pause=1000&size=22" />
 </p>
 
 ---
@@ -14,51 +14,51 @@
 
 ## About Me
 
- Passionate about designing and developing scalable software systems with modern technologies.
+Passionate about designing and developing scalable software systems with modern technologies.
 
- Skilled in **Full Stack Development, REST API Development, DevOps Practices, and IoT-Based Systems**.
+Skilled in **Full Stack Development, REST API Development, DevOps Practices, and IoT-Based Systems**.
 
- Currently exploring **Artificial Intelligence, Cloud Computing, System Design, and Scalable Architectures**.
+Currently exploring **Artificial Intelligence, Cloud Computing, System Design, and Scalable Architectures**.
 
- Experienced with frontend, backend, databases, CI/CD pipelines, Dockerized deployments, and embedded systems integration.
+Experienced with frontend, backend, databases, CI/CD pipelines, Dockerized deployments, and embedded systems integration.
 
- Interested in building impactful real-world applications with clean architecture and modern development practices.
+Interested in building impactful real-world applications with clean architecture and modern development practices.
 
 ---
 
-#  Tech Arsenal
+# Tech Arsenal
 
-##  Programming Languages
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp,cs" />
 </p>
 
-##  Frontend Development
+## Frontend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
 </p>
 
-##  Backend Development
+## Backend Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
 </p>
 
-##  Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-##  DevOps & Cloud
+## DevOps & Cloud
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,jenkins,aws,git,github" />
 </p>
 
-##  Tools & Platforms
+## Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=postman,vscode,idea,linux,figma,photoshop" />
@@ -66,69 +66,69 @@
 
 ---
 
-#  Featured Areas
+# Featured Areas
 
-🔹 Full Stack Web Application Development
-🔹 REST API Design & JWT Authentication
-🔹 CI/CD Automation & Docker Deployment
-🔹 Microservices & Scalable Architecture
-🔹 IoT Systems & Sensor Integration
-🔹 AI & Machine Learning Integration
-🔹 UI/UX & Creative Design
+Full Stack Web Application Development
+REST API Design & JWT Authentication
+CI/CD Automation & Docker Deployment
+Microservices & Scalable Architecture
+IoT Systems & Sensor Integration
+AI & Machine Learning Integration
+UI/UX & Creative Design
 
 ---
 
-#  GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supun-pregeeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=supun-pregeeth&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supun-pregeeth&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supun-pregeeth&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00F7FF&text_color=FFFFFF" />
 </p>
 
 ---
 
-#  GitHub Streak
+# GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=supun-pregeeth&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=supun-pregeeth&theme=tokyonight&hide_border=true&background=000000&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
 </p>
 
 ---
 
-#  GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=supun-pregeeth&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=supun-pregeeth&theme=algolia&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-#  Connect With Me
+# Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/supun-lakmal" target="blank">
+<a href="https://www.linkedin.com/in/supun-lakmal-686040361/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
 </a>
 </p>
 
 ---
 
-#  Contribution Snake
+# Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-#  Current Focus
+# Current Focus
 
-*  Artificial Intelligence & Machine Learning
-*  Cloud & DevOps Engineering
-*  IoT & Smart Systems
-*  System Design & Scalable Backend Architectures
-*  Modern Full Stack Development
+Artificial Intelligence & Machine Learning
+Cloud & DevOps Engineering
+IoT & Smart Systems
+System Design & Scalable Backend Architectures
+Modern Full Stack Development
 
 ---
 
@@ -139,5 +139,5 @@
 ---
 
 <h3 align="center">
- "Code. Create. Automate. Innovate." ⚡
+"Code. Create. Automate. Innovate."
 </h3>
