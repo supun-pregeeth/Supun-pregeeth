@@ -1,48 +1,105 @@
-# Hi there, I'm Supun 
+<h1 align="center">Hi 👋, I'm Supun Lakmal</h1>
+<h3 align="center">Computer Engineering Undergraduate | AI Enthusiast | Full Stack Developer</h3>
 
-💻 **Computer Engineering Student | Freelancer | Tech Enthusiast**
-
-I'm passionate about **software development, freelancing, and exploring new technologies**.  
-Currently, I’m working on projects related to **web development, databases, and embedded systems**.  
-I also enjoy freelancing in **graphic design, photo editing, and AI-powered creativity**.
-
----
-
-### 🚀 About Me
-- 🎓 Studying **Computer Engineering** at University of Ruhuna  
-- 🌱 Learning **MERN stack, Databases, and System Design**  
-- 🛠 Building projects in **React, Node.js, C#, C, and HDL**  
-- 🤝 Open to collaborating on **engineering + software projects**  
-- ✨ Exploring **AI, IoT, and Cloud** as future interests  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+IoT;Machine+Learning+Enthusiast;Exploring+AI+%26+Cloud+Technologies;Building+Modern+Software+Solutions" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:**  
-`C` `C++` `C#` `JavaScript` `Python` `Verilog/HDL`
+## 🧠 About Me
 
-**Web & Frameworks:**  
-`React.js` `Node.js` `Express.js` `HTML` `CSS`  
-
-**Databases:**  
-`MySQL` `MariaDB` `MongoDB`
-
-**Tools & Platforms:**  
-`Git` `GitHub` `Figma` `Photoshop` `Illustrator` `Vercel` `Heroku`
+💻 Passionate about building modern software applications and exploring emerging technologies.
+🎓 Computer Engineering undergraduate with interests in **AI Engineering, Full Stack Development, IoT, and Cloud Computing**.
+🚀 Continuously learning and improving skills in scalable systems, backend development, and intelligent solutions.
+⚡ Experienced with frontend, backend, embedded systems, and DevOps-related workflows.
+🎯 Goal: Become an AI Engineer and build impactful real-world solutions.
 
 ---
 
-### 📊 GitHub Stats
-![Supun's GitHub stats](https://github-readme-stats.vercel.app/api?username=supun-lakmal&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=supun-lakmal&layout=compact&theme=tokyonight)
+## ⚔️ Tech Stack
+
+### 💡 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,js" />
+</p>
+
+### 🌐 Web & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,html,css,bootstrap" />
+</p>
+
+### 🛢 Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,figma,photoshop,vscode,linux" />
+</p>
+
+### ☁️ Exploring
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes" />
+</p>
 
 ---
 
-### 📫 Connect with Me
-- 💼 [Fiverr Profile](https://www.fiverr.com/)  
-- 📷 [Instagram](https://www.instagram.com/)  
-- 🌐 [Portfolio Website](https://) _(coming soon)_  
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supun-pregeeth&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supun-pregeeth&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-⭐️ From [supun-lakmal](https://github.com/supun-lakmal)
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=supun-pregeeth&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Interests
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full Stack Web Development
+* 📡 IoT & Embedded Systems
+* ☁️ Cloud Computing & DevOps
+* 🔐 Scalable Backend Systems
+* 🎨 UI/UX & Creative Design
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=supun-pregeeth&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<h3 align="center">⚡ "Code. Learn. Build. Repeat." ⚡</h3>
