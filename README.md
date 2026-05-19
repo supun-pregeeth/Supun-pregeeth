@@ -81,12 +81,21 @@ UI/UX & Creative Design
 # GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=supun-pregeeth&show_icons=true&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supun-pregeeth&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supun-pregeeth&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supun-pregeeth&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=supun-pregeeth&theme=tokyonight" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=supun-pregeeth&theme=tokyonight" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=supun-pregeeth&theme=tokyonight&utcOffset=5.5" />
+</p>
+
 
 # GitHub Streak
 
